@@ -3,73 +3,8 @@
     "id": 1,
     "title": "Team 10042 Presents: Boulder",
     "slug": "Boulder",
-    "date": "02.03.2026",
+    "date": "03.03.2026",
     "fileName": "Boulder-26.md",
     "image": "/assets/Boulder26.png"
-  },
-  {
-    "id": 2,
-    "title": "Team 10042 Presents: Boulder1",
-    "slug": "Boulder1",
-    "date": "03.03.2026",
-    "fileName": "Boulder-261.md",
-    "image": "/assets/Boulder26.png"
-  },
-  {
-    "id": 3,
-    "title": "Team 10042 Presents: Boulder2",
-    "slug": "Boulder2",
-    "date": "04.03.2026",
-    "fileName": "Boulder-262.md",
-    "image": "/assets/Boulder26.png"
-  },
-  {
-    "id": 4,
-    "title": "Team 10042 Presents: Boulder3",
-    "slug": "Boulder3",
-    "date": "03.02.2026",
-    "fileName": "Boulder-263.md",
-    "image": "/assets/Boulder26.png"
-  },
-  {
-    "id": 5,
-    "title": "Team 10042 Presents: Boulder4",
-    "slug": "Boulder4",
-    "date": "03.03.2025",
-    "fileName": "Boulder-264.md",
-    "image": "/assets/Boulder26.png"
-  },
-  {
-    "id": 6,
-    "title": "Team 10042 Presents: Boulder5",
-    "slug": "Boulder5",
-    "date": "03.03.2026",
-    "fileName": "Boulder-265.md",
-    "image": "/assets/Boulder26.png"
-  },
-  {
-    "id": 7,
-    "title": "Team 10042 Presents: Boulder6",
-    "slug": "Boulder6",
-    "date": "03.03.2026",
-    "fileName": "Boulder-266.md",
-    "image": "/assets/Boulder26.png"
-  },
-  {
-    "id": 8,
-    "title": "Team 10042 Presents: Boulder7",
-    "slug": "Boulder7",
-    "date": "03.03.2026",
-    "fileName": "Boulder-267.md",
-    "image": "/assets/Boulder26.png"
-  },
-  {
-    "id": 9,
-    "title": "Team 10042 Presents: Boulder8",
-    "slug": "Boulder8",
-    "date": "03.03.2026",
-    "fileName": "Boulder-268.md",
-    "image": "/assets/Boulder26.png"
   }
-
 ]
