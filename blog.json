@@ -6,5 +6,13 @@
     "date": "03.03.2026",
     "fileName": "Boulder-26.md",
     "image": "/assets/Boulder26.png"
+  },
+  {
+    "id": 2,
+    "title": "Team 10042 Presents: Boulder2",
+    "slug": "Boulder2",
+    "date": "04.03.2026",
+    "fileName": "Boulder-26.md",
+    "image": "/assets/Boulder26.png"
   }
 ]
